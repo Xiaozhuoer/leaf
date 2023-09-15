@@ -13,8 +13,6 @@ Features
 Community
 ---------
 
-
-
 Documentation
 ---------
 
